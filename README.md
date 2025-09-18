@@ -71,7 +71,7 @@ Create Environment File
 #### MONGO_URI = mongodb+srv://zaibsmart786_db_user:qwerty786$@cluster1.wxsfdgl.mongodb.net/
 #### PORT = 5000
 #### JWT_SECRET = a_secret_code 
-#### GOOGLE_GEMINI_API_KEY = AIzaSyC40E5I9M-VG4Y7ATER8swbwzSXUUORPio
+#### GOOGLE _ GEMINI _ API_ KEY = AIzaSyC40E5I9M-VG4Y7ATER8swbwzSXUUORPio
 
 nodemon run dev
 
