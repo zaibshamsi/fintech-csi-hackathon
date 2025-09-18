@@ -1,4 +1,4 @@
-# FinTrack AI: Smart Expense Tracker (Backend Submission)
+# FinTrack AI: Smart Expense Tracker
 
 ## 🚀 Introduction
 FinTrack AI is the server-side engine for a modern personal finance application, built to tackle the challenge of managing expenses and enhancing financial security. This project was developed for the CSI Hackathon.
