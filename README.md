@@ -19,7 +19,7 @@ Full support for creating, reading, and listing user-specific transactions (inco
 ### Atomic Peer-to-Peer Transfers:
 Securely transfer funds between users. The entire process is wrapped in a MongoDB atomic transaction, ensuring that a transfer either completes fully (updating balances for both sender and receiver) or fails safely, preventing any data corruption.
 
-###⭐ AI-Powered Expense Categorization:
+### ⭐ AI-Powered Expense Categorization:
 The standout feature. If a user adds an expense without specifying a category, the backend automatically sends the transaction's description to the Google Gemini API. The AI analyzes the text (e.g., "Uber ride to airport") and returns a clean, relevant category (e.g., "Transport"), which is then saved to the database. This significantly improves user experience by automating manual data entry.
 
 ### Customizable Fraud Alerts:
